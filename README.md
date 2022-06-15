@@ -1,9 +1,11 @@
-# Eleven41.Skip32
+# Net.Eleven41.Skip32
 
 Copyright (C) 2013, Eleven41 Software
 
 Skip32 C# implementation.
 32-bit block cipher based on Skipjack.
+
+Migrated original https://github.com/eleven41/Eleven41.Skip32 implementation to .NET5+
 
 Adaptation of the skip32 C implementation:
 http://www.qualcomm.com.au/PublicationsDocs/skip32.c
@@ -13,14 +15,15 @@ https://github.com/nlenepveu/Skip32
 
 ## Get It on NuGet!
 
-	Install-Package Eleven41.Skip32
+	Install-Package Net.Eleven41.Skip32
 
 ## LICENSE
-[MIT License](https://github.com/eleven41/Eleven41.Skip32/blob/master/LICENSE.md)
+[MIT License](https://github.com/GothAr/Eleven41.Skip32/blob/master/LICENSE.md)
 
 ## REQUIREMENTS
 
-* Visual Studio 2012
+* Visual Studio 2019+
+* NET 5+
 
 ## Sample Code
 

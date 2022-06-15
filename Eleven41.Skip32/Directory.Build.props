@@ -1,0 +1,18 @@
+<Project>
+  <PropertyGroup>
+    <Company>Eleven41 Software</Company>
+    <Product>Eleven41.Skip32</Product>
+    <Title>Eleven41.Skip32</Title>
+    <Description>Eleven41.Skip32 is an adaptation of the skip32 encryption algorithm.</Description>
+    <Copyright>Copyright (C) 2013, Eleven41 Software</Copyright>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <FileVersion>1.0.2.0</FileVersion>
+    <Version>1.0.2.0</Version>
+    <Authors>GothAr, Eleven41 Software</Authors>
+    <PackageId>Net.Eleven41.Skip32</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/GothAr/Eleven41.Skip32</PackageProjectUrl>
+    <PackageReleaseNotes>Migrated the implementation to .NET 5+.</PackageReleaseNotes>
+    <PackageTags>skip32</PackageTags>
+  </PropertyGroup>
+</Project>
